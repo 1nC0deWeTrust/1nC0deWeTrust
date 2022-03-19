@@ -1,16 +1,14 @@
 ### Hi there 👋
+---
 
-<!--
-**1nC0deWeTrust/1nC0deWeTrust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [ ] Computer System
+- [ ] Language
+- [ ] OOP & Design Patterns & Architecture
+- [ ] Algorithm & Data Structure
+- [ ] Computer Network
+- [ ] Database
+- [ ] Operating System
+- [ ] Compilers
 
-Here are some ideas to get you started:
+**keyword**:`cs`,`java`,`algorithm`,`computer basics`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
