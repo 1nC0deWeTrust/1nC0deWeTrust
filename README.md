@@ -12,3 +12,5 @@
 
 **keyword**:`cs`,`java`,`algorithm`,`computer basics`
 
+**books & courses**:`scip`,`caspp`,`cs61a`
+
