@@ -10,7 +10,7 @@
 - [ ] Operating System
 - [ ] Compilers
 
-**keyword**:`cs`,`java`,`algorithm`,`computer basics`
+**keyword**:`cs`,`java`,`data structure`,`algorithm`,`computer basics`
 
 **books & courses**:`sicp`,`csapp`,`cs61a`
 
