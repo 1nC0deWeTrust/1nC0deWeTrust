@@ -14,3 +14,4 @@
 
 **books & courses**:`sicp`,`csapp`,`cs61a`
 
+**others**:`browser debugging`,`data collection & processing`,`workflow automation`
