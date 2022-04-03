@@ -5,8 +5,8 @@
 - [ ] Language
 - [ ] OOP & Design Patterns & Architecture
 - [ ] Algorithm & Data Structure
-- [ ] Computer Network
 - [ ] Database
+- [ ] Computer Network
 - [ ] Operating System
 - [ ] Compilers
 
