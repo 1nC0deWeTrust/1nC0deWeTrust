@@ -2,7 +2,7 @@
 ---
 
 - [ ] Computer System
-- [ ] Language
+- [ ] Language(java,kotlin,rx,stream)
 - [ ] OOP & Design Patterns & Architecture
 - [ ] Algorithm & Data Structure
 - [ ] Database
