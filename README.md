@@ -12,6 +12,6 @@
 
 **keyword**:`cs`,`java`,`data structure`,`algorithm`,`computer basics`
 
-**books & courses**:`sicp`,`csapp`,`cs61a`
+**books & courses**:`sicp`,`cs61a`,`csapp`
 
 **others**:`browser debugging`,`data collection & processing`,`workflow automation`
